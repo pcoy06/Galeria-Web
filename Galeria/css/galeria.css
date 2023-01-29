@@ -1,0 +1,17 @@
+#galeria .col-lg-4{
+    margin: 0 !important;
+    padding: 25px;
+}
+
+
+#galeria img{
+    width: 250px;
+    height: 200px;
+
+    object-fit: cover;
+
+}
+#galeria img:hover{
+    border:5px solid #f7f7f7;
+
+}
